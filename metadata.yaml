@@ -1,0 +1,39 @@
+_repo: Lady-Bountiful_24155
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birmingham, George A.
+    aliases:
+    - Hannay, James Owen
+    - Birmingham, G. A. (George A.)
+    - Hannay, James O. (James Owen)
+    birthdate: 1865
+    deathdate: 1950
+    gutenberg_agent_id: '8765'
+    url: http://www.gutenberg.org/2009/agents/8765
+    wikipedia: http://en.wikipedia.org/wiki/George_A._Birmingham
+description: Lady Bountiful.-The strike breaker.-The faculty of medicine.-A lunatic
+  at large.-The bands of Ballyguttery.-Starting the train.-Unlawful possession.-A
+  soul for a life.-A bird in hand.-The emerald pendant.-Settled out of court.- A competent
+  mechanic.-My niece Kitty.-A royal marriage.-Aunt Nell.
+gutenberg_issued: '2008-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Short stories, Irish'
+tableOfContents: Lady Bountiful -- The strike breaker -- The faculty of medicine --
+  A lunatic at large -- The bands of Ballyguttery -- Starting the train -- Unlawful
+  possession -- A soul for a life -- A bird in hand -- The emerald pendant -- Settled
+  out of court --  A competent mechanic -- My niece Kitty -- A royal marriage -- Aunt
+  Nell.
+title: Lady Bountiful
+url: http://www.gutenberg.org/ebooks/24155
